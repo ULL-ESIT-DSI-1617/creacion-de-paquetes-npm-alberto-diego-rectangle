@@ -10,7 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "mocha": "^3.2.0",
-    "should": "^11.2.1"
+    "should": "^11.2.1",
+    "ull-shape-alberto-diego": "^1.0.0"
   },
   "contributors": [
     {
