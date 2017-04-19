@@ -8,3 +8,5 @@ npm install ull-shape-rectangle-alberto-diego
 var rectangle = require('ull-shape-rectangle-alberto-diego');
 var figura = new rectangle({ width: 100, height: 100 });
 ```
+
+[Enlace a la documentación](index.md)
