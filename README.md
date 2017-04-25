@@ -9,4 +9,4 @@ var rectangle = require('ull-shape-rectangle-alberto-diego');
 var figura = new rectangle({ width: 100, height: 100 });
 ```
 
-[Enlace a la documentación](index.md)
+[Enlace a la documentación](https://ull-esit-dsi-1617.github.io/creacion-de-paquetes-npm-alberto-diego-rectangle/)
