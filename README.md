@@ -1,4 +1,5 @@
 # RECTANGLE
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego-rectangle.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego-rectangle)
 
 Este paquete contiene la clase Rectangle, que hereda de la clase Shape. El procedimiento de uso es similar al siguiente:
 
